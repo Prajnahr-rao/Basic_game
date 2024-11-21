@@ -15,7 +15,7 @@ Copy code
 
 🚀   How to Use
 Clone the repository:
-# git clone https://github.com/your-username/tic-tac-toe-rock-paper-scissors-c.git 
+ git clone https://github.com/your-username/tic-tac-toe-rock-paper-scissors-c.git 
 
 💻 Technologies Used
 C Programming: Core logic and flow for both games.
